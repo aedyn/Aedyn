@@ -73,4 +73,4 @@ See the [homelab repo](https://github.com/aedyn/homelab) for write-ups and notes
 
 - 📧 Email: Aedyn.greene@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/aedyn-greene-3641312ab
-- 📄 [View my resume](https://github.com/aedyn/resume/blob/main/resume.md)
+- 📄 [View my resume](https://github.com/aedyn/Aedyn/blob/main/resume)
