@@ -39,7 +39,7 @@ I use it to practice real attack and defense techniques in a safe, isolated envi
 
 - **Exploitation practice** — Gained root on Metasploitable via Apache Continuum (CVE exploitation → Meterpreter shell)
 - **Service enumeration** — MySQL, FTP, HTTP service scanning and fingerprinting
-- **Network scanning** — ARP discovery, port scanning, banner grabbing
+- **Network scanning** — port scanning, packet sniffing
 - **Python tooling** — Built custom security scripts to automate common tasks
 
 See the [homelab repo](https://github.com/aedyn/Aedyn/blob/main/homelab) for write-ups and notes.
