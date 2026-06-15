@@ -51,7 +51,7 @@ See the [homelab repo](https://github.com/aedyn/Aedyn/blob/main/homelab) for wri
 
 | Project | Description | Language |
 |---|---|---|
-| [Port Scanner](https://github.com/aedyn/Aedyn/blob/main/packet-sniffer.py) | TCP port scanner with banner grabbing | Python |
+| [Port Scanner](https://github.com/aedyn/Aedyn/blob/main/port-scanner.py) | TCP port scanner with banner grabbing | Python |
 | [Packet Sniffer](https://github.com/aedyn/Aedyn/blob/main/packet-sniffer.py) | Raw socket packet capture and display | Python |
 | [ARP Scanner](https://github.com/aedyn/arp-scanner) | Local network host discovery via ARP | Python |
 | [Password Manager](https://github.com/aedyn/password-manager) | AES-encrypted CLI password vault | Python |
