@@ -1,0 +1,88 @@
+# Aedyn Greene
+
+📍 Queen Creek, Arizona | LinkedIn: www.linkedin.com/in/aedyn-greene-3641312ab | Github: github.com/aedyn
+
+---
+
+## Objective
+
+Motivated and self-taught IT professional seeking an entry-level **helpdesk or IT support role**.  
+Brings hands-on experience with Linux, Windows, hardware builds, networking, and cybersecurity fundamentals through independent study and a dedicated home lab environment.
+
+---
+
+## Skills
+
+**Operating Systems**
+Linux (Linux Mint — daily driver, Kali Linux — security work, Debian — homelab/server), Windows (Desktop support and troubleshooting)
+
+**Networking**
+TCP/IP fundamentals, ARP, port scanning, service enumeration, packet analysis, basic firewall concepts
+
+**Security**
+Penetration testing fundamentals, Metasploit/Meterpreter, vulnerability exploitation, CTF challenges (OverTheWire: Bandit)
+
+**Programming & Scripting**
+Python — security tooling, automation, file I/O, encryption (AES via Fernet)
+
+**Hardware**
+PC assembly from components, hardware diagnostics, OS installation, BIOS configuration, performance troubleshooting
+
+**Tools**
+Kali Linux, Metasploit, Nmap, Wireshark, Git/GitHub, Burp Suite (in progress), Proxmox VE
+
+---
+
+## Projects & Home Lab
+
+**Home Lab — Kali Linux + Metasploitable Environment**
+- Built and maintain a virtualized attack/defense lab on a repurposed Dell Optiplex 7060 running Proxmox VE — the same enterprise hypervisor used in production data centers and IT environments
+- Exploited Metasploitable services including Apache Continuum (gained root via Meterpreter)
+- Practiced MySQL enumeration, ARP scanning, and network service fingerprinting
+- Documents all activity through write-ups and notes on GitHub
+
+**Python Security Tooling** | [github.com/aedyn](https://github.com/aedyn)
+- Built a suite of security tools from scratch: port scanner, packet sniffer, ARP scanner, web spider, GitHub scraper, and an AES-encrypted password manager
+- All tools written in Python with no reliance on pre-built exploit frameworks
+
+**PC Build**
+- Sourced components, assembled, and configured a custom desktop PC
+- Handled OS installation, driver setup, and post-build troubleshooting independently
+
+---
+
+## Certifications
+
+| Certification | Status |
+|---|---|
+| CompTIA A+ | In Progress |
+| OverTheWire: Bandit (Linux CTF) | Completed |
+| TryHackMe — Jr Penetration Tester Path | In Progress |
+
+---
+
+## Self-Directed IT Experience
+
+No formal IT employment history — the following represents independent study and hands-on practical work.
+
+**Home Lab — Proxmox Virtualization Environment** | Ongoing
+- Repurposed a Dell Optiplex 7060 into a multi-VM lab running Proxmox VE
+- Independently researched, installed, and configured all VMs (Kali Linux, Metasploitable 2, DVWA on Debian)
+- Practiced real-world attack techniques: exploited Apache Continuum on Metasploitable 2 to gain a root shell via Meterpreter
+- Set up DVWA for offline web application attack practice (SQL injection, XSS, file inclusion, etc.)
+
+**Python Security Tooling** | Ongoing
+- Built a suite of six Python security tools; four were guided by tutorial (port scanner, packet sniffer, GitHub scraper, web spider) and two built independently (ARP scanner and a AES password manager)
+- Tools include: port scanner, packet sniffer, ARP scanner, web spider, GitHub scraper, and AES-encrypted password manager
+
+**PC Hardware**
+- Independently sourced components, assembled, and configured a custom desktop PC
+- Handled full setup from BIOS through OS install and troubleshooting
+
+---
+
+## Additional
+
+- Actively studying for CompTIA A+ covering PC hardware, networking, OS support, and troubleshooting
+- Background in mechanical/technical work (ASE H8 PMI study) — demonstrates ability to learn complex technical systems
+- Comfortable with documentation, following procedures, and explaining technical concepts clearly
