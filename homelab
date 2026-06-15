@@ -1,0 +1,61 @@
+# Home Lab
+
+A personal cybersecurity lab built for hands-on practice with real attack and defense techniques.
+
+---
+
+## Setup
+
+| Component | Details |
+|---|---|
+| Host Machine | Dell Optiplex 7060 (repurposed) — Intel i7-8700, 16GB RAM, 1TB SSD |
+| Hypervisor | Proxmox VE (enterprise-grade bare-metal hypervisor) |
+| Attacker VM | Kali Linux |
+| Target VMs | Metasploitable 2, DVWA on Debian (Damn Vulnerable Web Application) |
+| Network | Isolated virtual network (no internet exposure) |
+
+---
+
+## Completed Exercises
+
+### Apache Continuum — Remote Code Execution → Root
+**Target:** Metasploitable 2 (port 8080)  
+**Tool:** Metasploit / Meterpreter  
+**Result:** Gained root shell on target machine
+
+**Summary:**
+- Scanned Metasploitable with Nmap, identified Apache Continuum running on port 8080
+- Searched Metasploit for a matching module and configured the exploit
+- Launched exploit, received a Meterpreter shell, confirmed root privileges with `getuid` and `sysinfo`
+
+---
+
+### MySQL Enumeration (In Progress)
+**Target:** Metasploitable 2 (port 3306)  
+**Plan:** Connect locally through the existing Meterpreter session, enumerate databases and users
+
+---
+
+## Python Tools Used / Built
+
+| Tool | Purpose |
+|---|---|
+| Port Scanner | TCP port discovery + banner grabbing |
+| ARP Scanner | Find live hosts on local network |
+| Packet Sniffer | Capture and read raw network traffic |
+| Web Spider | Map links on a target web app |
+
+---
+
+## Learning Resources
+
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — Completed 
+- [TryHackMe: Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) — In Progress 
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — In Progress 
+
+---
+
+## Notes
+
+This lab is for **authorized, isolated practice only**.  
+All targets are intentionally vulnerable VMs on a host-only network.
