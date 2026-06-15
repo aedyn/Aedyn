@@ -43,7 +43,7 @@ I use it to practice real attack and defense techniques in a safe, isolated envi
 - **Network scanning** — ARP discovery, port scanning, banner grabbing
 - **Python tooling** — Built custom security scripts to automate common tasks
 
-See the [homelab repo](https://github.com/aedyn/homelab) for write-ups and notes.
+See the [homelab repo](https://github.com/aedyn/Aedyn/blob/main/homelab) for write-ups and notes.
 
 ---
 
