@@ -53,6 +53,7 @@ See the [homelab repo](https://github.com/aedyn/Aedyn/blob/main/homelab) for wri
 | [Port Scanner](https://github.com/aedyn/Aedyn/blob/main/port-scanner.py) | TCP port scanner with banner grabbing | Python |
 | [Packet Sniffer](https://github.com/aedyn/Aedyn/blob/main/packet-sniffer.py) | Raw socket packet capture and display | Python |
 | [Web Spider](https://github.com/aedyn/Aedyn/blob/main/web-spider.py) | Crawls and maps links across a website | Python |
+| [Web Probe](https://github.com/aedyn/Aedyn/blob/main/web-probe.py) | Checks to see if the pages from Web Spider are reachable | Python |
 | [GitHub Scraper](https://github.com/aedyn/Aedyn/blob/main/github-scrapper.py) | Searches GitHub repos for exposed data | Python |
 
 ---
