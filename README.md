@@ -13,16 +13,15 @@ Currently targeting **helpdesk / IT support roles** while working toward my **Co
 
 ### Networking & Security
 - Home lab: Kali Linux + Metasploitable VMs for penetration testing practice
-- Port scanning, packet sniffing, ARP scanning
+- Port scanning, packet sniffing, web spider and probe
 - Vulnerability exploitation (Metasploit/Meterpreter)
 - Completed **OverTheWire: Bandit** (Linux CTF wargame)
 - Web enumeration and service exploitation (Apache, MySQL)
 
 ### Programming
 - **Python** — Security tooling, scripting, automation
-  - Port scanner, packet sniffer, ARP scanner
-  - AES-encrypted password manager
-  - Web spider and GitHub scraper
+  - Port scanner, packet sniffer
+  - Web spider and prob and a GitHub scraper
   - Text parsing and file I/O
 
 ### Hardware & IT Support
@@ -53,8 +52,6 @@ See the [homelab repo](https://github.com/aedyn/Aedyn/blob/main/homelab) for wri
 |---|---|---|
 | [Port Scanner](https://github.com/aedyn/Aedyn/blob/main/port-scanner.py) | TCP port scanner with banner grabbing | Python |
 | [Packet Sniffer](https://github.com/aedyn/Aedyn/blob/main/packet-sniffer.py) | Raw socket packet capture and display | Python |
-| [ARP Scanner](https://github.com/aedyn/arp-scanner) | Local network host discovery via ARP | Python |
-| [Password Manager](https://github.com/aedyn/password-manager) | AES-encrypted CLI password vault | Python |
 | [Web Spider](https://github.com/aedyn/Aedyn/blob/main/web-spider.py) | Crawls and maps links across a website | Python |
 | [GitHub Scraper](https://github.com/aedyn/Aedyn/blob/main/github-scrapper.py) | Searches GitHub repos for exposed data | Python |
 
