@@ -71,5 +71,5 @@ See the [homelab repo](https://github.com/aedyn/Aedyn/blob/main/homelab) for wri
 
 ## Contact
 
-- 💼 LinkedIn: www.linkedin.com/in/aedyn-greene-3641312ab
-- 📄 [View my resume](https://github.com/aedyn/Aedyn/blob/main/resume)
+- LinkedIn: www.linkedin.com/in/aedyn-greene-3641312ab
+- [View my resume](https://github.com/aedyn/Aedyn/blob/main/resume)
