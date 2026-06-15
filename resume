@@ -17,7 +17,7 @@ Brings hands-on experience with Linux, Windows, hardware builds, networking, and
 Linux (Linux Mint — daily driver, Kali Linux — security work, Debian — homelab/server), Windows (Desktop support and troubleshooting)
 
 **Networking**
-TCP/IP fundamentals, ARP, port scanning, service enumeration, packet analysis, basic firewall concepts
+TCP/IP fundamentals, port scanning, service enumeration, packet analysis, basic firewall concepts
 
 **Security**
 Penetration testing fundamentals, Metasploit/Meterpreter, vulnerability exploitation, CTF challenges (OverTheWire: Bandit)
@@ -38,11 +38,11 @@ Kali Linux, Metasploit, Nmap, Wireshark, Git/GitHub, Burp Suite (in progress), P
 **Home Lab — Kali Linux + Metasploitable Environment**
 - Built and maintain a virtualized attack/defense lab on a repurposed Dell Optiplex 7060 running Proxmox VE — the same enterprise hypervisor used in production data centers and IT environments
 - Exploited Metasploitable services including Apache Continuum (gained root via Meterpreter)
-- Practiced MySQL enumeration, ARP scanning, and network service fingerprinting
+- Practiced MySQL enumeration and network service fingerprinting
 - Documents all activity through write-ups and notes on GitHub
 
 **Python Security Tooling** | [github.com/aedyn](https://github.com/aedyn)
-- Built a suite of security tools from scratch: port scanner, packet sniffer, ARP scanner, web spider, GitHub scraper, and an AES-encrypted password manager
+- Built a suite of security tools from scratch: port scanner, packet sniffer, web spider, GitHub scraper, and an AES-encrypted password manager
 - All tools written in Python with no reliance on pre-built exploit frameworks
 
 **PC Build**
@@ -72,8 +72,8 @@ No formal IT employment history — the following represents independent study a
 - Set up DVWA for offline web application attack practice (SQL injection, XSS, file inclusion, etc.)
 
 **Python Security Tooling** | Ongoing
-- Built a suite of six Python security tools; four were guided by tutorial (port scanner, packet sniffer, GitHub scraper, web spider) and two built independently (ARP scanner and a AES password manager)
-- Tools include: port scanner, packet sniffer, ARP scanner, web spider, GitHub scraper, and AES-encrypted password manager
+- Built a suite of five Python security tools; four were guided by tutorial (port scanner, packet sniffer, GitHub scraper, web spider, web probe)
+- Tools include: port scanner, packet sniffer, web spider, web probe, and a GitHub scraper
 
 **PC Hardware**
 - Independently sourced components, assembled, and configured a custom desktop PC
