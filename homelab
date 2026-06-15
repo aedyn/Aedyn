@@ -41,7 +41,6 @@ A personal cybersecurity lab built for hands-on practice with real attack and de
 | Tool | Purpose |
 |---|---|
 | Port Scanner | TCP port discovery + banner grabbing |
-| ARP Scanner | Find live hosts on local network |
 | Packet Sniffer | Capture and read raw network traffic |
 | Web Spider | Map links on a target web app |
 
