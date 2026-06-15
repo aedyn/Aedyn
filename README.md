@@ -51,12 +51,12 @@ See the [homelab repo](https://github.com/aedyn/Aedyn/blob/main/homelab) for wri
 
 | Project | Description | Language |
 |---|---|---|
-| [Port Scanner](https://github.com/aedyn/port-scanner) | TCP port scanner with banner grabbing | Python |
-| [Packet Sniffer](https://github.com/aedyn/packet-sniffer) | Raw socket packet capture and display | Python |
+| [Port Scanner](https://github.com/aedyn/Aedyn/blob/main/packet-sniffer.py) | TCP port scanner with banner grabbing | Python |
+| [Packet Sniffer](https://github.com/aedyn/Aedyn/blob/main/packet-sniffer.py) | Raw socket packet capture and display | Python |
 | [ARP Scanner](https://github.com/aedyn/arp-scanner) | Local network host discovery via ARP | Python |
 | [Password Manager](https://github.com/aedyn/password-manager) | AES-encrypted CLI password vault | Python |
-| [Web Spider](https://github.com/aedyn/web-spider) | Crawls and maps links across a website | Python |
-| [GitHub Scraper](https://github.com/aedyn/github-scraper) | Searches GitHub repos for exposed data | Python |
+| [Web Spider](https://github.com/aedyn/Aedyn/blob/main/web-spider.py) | Crawls and maps links across a website | Python |
+| [GitHub Scraper](https://github.com/aedyn/Aedyn/blob/main/github-scrapper.py) | Searches GitHub repos for exposed data | Python |
 
 ---
 
