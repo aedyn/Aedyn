@@ -1,4 +1,4 @@
-# Hi, I'm Aedyn 👋
+# Hi, I'm Aedyn
 
 I'm a self-taught IT and cybersecurity learner building real skills through hands-on practice.  
 Currently targeting **helpdesk / IT support roles** while working toward my **CompTIA A+** certification.
@@ -60,12 +60,12 @@ See the [homelab repo](https://github.com/aedyn/homelab) for write-ups and notes
 
 ---
 
-## 📜 Certifications & Learning
+## Certifications & Learning
 
-- 🔄 **CompTIA A+** — In progress
-- ✅ **OverTheWire: Bandit** — Completed
-- 🔄 **TryHackMe: Jr Penetration Tester Path** — In progress
-- 🔄 **PortSwigger Web Security Academy (Burp Suite)** — In progress
+- **CompTIA A+** — In progress
+- **OverTheWire: Bandit** — Completed
+- **TryHackMe: Jr Penetration Tester Path** — In progress
+- **PortSwigger Web Security Academy (Burp Suite)** — In progress
 
 ---
 
